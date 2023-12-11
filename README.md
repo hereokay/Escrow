@@ -2,7 +2,7 @@
 
 인하대학교 정보보호연구실 학부연구생로 참여중인 프로젝트
 
-기간 : 23.1 ~ 23.10
+기간 : 23.1 ~ 23.5
 
 프로젝트 설명 : Escrow와 1회성 거래주소([Stealth Address](https://eips.ethereum.org/EIPS/eip-5564))를 이용한 프라이버시 보호 솔루션 구현하기
 
@@ -10,3 +10,4 @@
 
 이후 [Stealth Meta-Address](https://eips.ethereum.org/EIPS/eip-6538) 를 조회하여 1회성 거래 주소를 생성하고 해당 주소를 목적지로 하는 에스크로를 생성한다. (진행중)
 
+[세미나 - 230515 온체인 서명 검증 및 ERC4337.pdf](https://github.com/hereokay/Escrow/files/13631055/-.230515.ERC4337.pdf)
